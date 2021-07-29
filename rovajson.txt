@@ -50,6 +50,16 @@
     },
 
 
+    {
+        "type": "Feature",
+        "id": 5,
+        "properties": { 
+            "TYPE": "Aéroport",
+            "LOCATION_NAME": "Aéroport d'Ivato",
+            "Location": "Ivato, Tananarive, Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.47458714398851, -18.79930986249823 ] }
+    },
 
 
     {
@@ -97,7 +107,7 @@
             "Location": "64 Boulevard Haussmann, 75009 Paris"
         },
         "geometry": { "type": "Point", "coordinates": [ 2.327716075935076, 48.87413633147235 ] }
-    }
+    },
 
 
 ]
