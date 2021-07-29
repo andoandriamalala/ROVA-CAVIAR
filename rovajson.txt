@@ -50,16 +50,6 @@
     },
 
 
-    {
-        "type": "Feature",
-        "id": 5,
-        "properties": { 
-            "TYPE": "Aéroport",
-            "LOCATION_NAME": "Aéroport d\'Ivato",
-            "Location": "Ivato, Tananarive, Madagascar"
-        },
-        "geometry": { "type": "Point", "coordinates": [ 47.47458714398851, -18.79930986249823 ] }
-    },
 
 
     {
