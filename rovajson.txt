@@ -23,7 +23,164 @@
             "Location": "Zone Zital Ankorondrano, Tananarive, Madagascar"
         },
         "geometry": { "type": "Point", "coordinates": [ 47.52354374535004, -18.88457353581624 ] }
-    }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 3,
+        "properties": { 
+            "TYPE": "ÉPICERIE FINE",
+            "LOCATION_NAME": "Épicerie Gourmet 2",
+            "Location": "Amabatobe, Tananarive, Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.559479486453746, -18.8784298917079 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 4,
+        "properties": { 
+            "TYPE": "HOTEL",
+            "LOCATION_NAME": "Tsara Komba Lodge",
+            "Location": "Nosy Komba, Nosy Be, Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 48.356660221953135, -13.49647265476977 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 5,
+        "properties": { 
+            "TYPE": "Aéroport",
+            "LOCATION_NAME": "Aéroport d'Ivato",
+            "Location": "Ivato, Tananarive, Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.47458714398851, -18.79930986249823 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 6,
+        "properties": { 
+            "TYPE": "CAVE",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS",
+            "Location": "40 Rue de Bretagne, 75003 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.362326201673294, 48.86312663098674 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 7,
+        "properties": { 
+            "TYPE": "CAVE",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS",
+            "Location": "122 Rue Saint-Dominique, 75007 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.3009400995167746, 48.85801783987244 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 8,
+        "properties": { 
+            "TYPE": "CAVE",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS",
+            "Location": "11 Rue le Marois, 75016 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.261971654121421, 48.839050514825374 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 9,
+        "properties": { 
+            "TYPE": "CAVE",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS - PRINTEMPS DU GOUT",
+            "Location": "64 Boulevard Haussmann, 75009 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.327716075935076, 48.87413633147235 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 10,
+        "properties": { 
+            "TYPE": "RESTAURANT 1*",
+            "LOCATION_NAME": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 11,
+        "properties": { 
+            "TYPE": "RESTAURANT",
+            "LOCATION_NAME": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 12,
+        "properties": { 
+            "TYPE": "RESTAURANT",
+            "LOCATION_NAME": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 13,
+        "properties": { 
+            "TYPE": "",
+            "LOCATION_NAME": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 14,
+        "properties": { 
+            "TYPE": "",
+            "LOCATION_NAME": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": ,
+        "properties": { 
+            "TYPE": "",
+            "LOCATION_NAME": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
 
 ]
 }
