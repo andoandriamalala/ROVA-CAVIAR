@@ -91,7 +91,7 @@
         "id": 8,
         "properties": { 
             "TYPE": "CAVE",
-            "LOCATION_NAME": "REPAIRE DE BACCHUS2",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS3",
             "Location": "11 Rue le Marois, 75016 Paris"
         },
         "geometry": { "type": "Point", "coordinates": [ 2.261971654121421, 48.839050514825374 ] }
