@@ -8,7 +8,7 @@
         "properties": { 
             "TYPE": "RESTAURANT",
             "LOCATION_NAME": "Marais Restaurant",
-            "Location": "Route des hydrocarbures, Tananarive, Madagascar",
+            "Location": "Route des hydrocarbures, Tananarive, Madagascar"
         },
         "geometry": { "type": "Point", "coordinates": [ 47.52354374535004, -18.887430682364837 ] }
     },
@@ -20,11 +20,10 @@
         "properties": { 
             "TYPE": "ÉPICERIE FINE",
             "LOCATION_NAME": "Épicerie Gourmet",
-            "Location": "Zone Zital Ankorondrano, Tananarive, Madagascar",
+            "Location": "Zone Zital Ankorondrano, Tananarive, Madagascar"
         },
         "geometry": { "type": "Point", "coordinates": [ 47.52354374535004, -18.88457353581624 ] }
     }
-    
 
 ]
 }
