@@ -23,7 +23,7 @@
             "Location": "Zone Zital Ankorondrano, Tananarive, Madagascar",
         },
         "geometry": { "type": "Point", "coordinates": [ 47.52354374535004, -18.88457353581624 ] }
-    },
+    }
 
 ]
 }
