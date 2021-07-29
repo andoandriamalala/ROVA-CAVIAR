@@ -107,6 +107,210 @@
             "Location": "64 Boulevard Haussmann, 75009 Paris"
         },
         "geometry": { "type": "Point", "coordinates": [ 2.327716075935076, 48.87413633147235 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 10,
+        "properties": { 
+            "TYPE": "Restaurant ★",
+            "name": "LE CHIBERTA",
+            "Location": "3 Rue Arsène Houssaye, 75008 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.297816170675162, 48.873577882971 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 11,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "VERDE BY YEELS",
+            "Location": "24 Avenue George V, 75008 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.3015462162699802, 48.86773236343829 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 12,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "IMPERIAL TREASURE",
+            "Location": "44 Rue de Bassano, 75008 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.2991617134973534, 48.870465559642916 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 13,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "POISSONERIE MOUFFETARD",
+            "Location": "107 Rue Mouffetard, 75005 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.349729447478448, 48.84071553470703 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 14,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "POISSONERIE FORVILLE",
+            "Location": "6 Rue du Dr Pierre Gazagnaire, 06400 Cannes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.011703643001222, 43.55173653026552 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 15,
+        "properties": { 
+            "TYPE": "Restaurant ★",
+            "name": "LE MANOIR DE LA REGATE",
+            "Location": "155 Route de Gachet, 44300 Nantes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.526377434390816, 47.2936654543103 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 16,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "LA LAITERIE",
+            "Location": "138 Avenue de l'Hippodrome, 59130 Lambersart"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.033257005353266, 50.64011254543763 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 17,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "AUX CAVES DE LA COTE D'OR",
+            "Location": "19 Rue Paul Doumer, 77000, Melun"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.6606562303017514, 48.539505762133 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 18,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "CTB DISTRIBUTION",
+            "Location": "521 Rue Paulin Labarre, 45160, Olivet"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.8969620377827294, 47.8587226676164 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 19,
+        "properties": { 
+            "TYPE": "Distributeur",
+            "name": "DU BEAU DU BON",
+            "Location": "Lieu dit Beauregard, 87220, Boisseuil"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.3284085990487178, 45.77518882437362 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 20,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "EURL OLEG VINS",
+            "Location": "3 Place Di Marhalle, 44350, Guerande"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -2.4267621776850574, 47.326878396872544 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 21,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "FONTAINE CAVALIER",
+            "Location": "Domaine Jeunot, 58130, Urzy"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.1770098179757875, 47.03457398329364 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 22,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LA CAVE DK",
+            "Location": "14 Place Calonne,59140, Dunkerque"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.3837480686699353, 51.03580141016946 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 23,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LA RESERVE DU 20",
+            "Location": "20 Rue Grande, 36200, Argenton sur Creuse"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.51845299436668, 46.58780910986925 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 24,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "L'ATABLE",
+            "Location": "20 Rue Raymond Poincarre, 85000, La Roche sur Yon"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.434054623306553, 46.66895949586631 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 25,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "LE BOUCHON DU BOUCHER",
+            "Location": "3 Route de Nimes, 30820, CAVEinac"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.266469589848694, 43.822787585991755 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 26,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LE MARCHAND DE VINS",
+            "Location": "2 Boulevard Gambetta, 30700, Uzes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.4184048063822665, 44.013261037504314 ] }
     }
 
 
