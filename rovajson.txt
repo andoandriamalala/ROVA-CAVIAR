@@ -79,7 +79,7 @@
         "id": 7,
         "properties": { 
             "TYPE": "CAVE",
-            "LOCATION_NAME": "REPAIRE DE BACCHUS",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS2",
             "Location": "122 Rue Saint-Dominique, 75007 Paris"
         },
         "geometry": { "type": "Point", "coordinates": [ 2.3009400995167746, 48.85801783987244 ] }
@@ -91,7 +91,7 @@
         "id": 8,
         "properties": { 
             "TYPE": "CAVE",
-            "LOCATION_NAME": "REPAIRE DE BACCHUS",
+            "LOCATION_NAME": "REPAIRE DE BACCHUS2",
             "Location": "11 Rue le Marois, 75016 Paris"
         },
         "geometry": { "type": "Point", "coordinates": [ 2.261971654121421, 48.839050514825374 ] }
@@ -107,7 +107,7 @@
             "Location": "64 Boulevard Haussmann, 75009 Paris"
         },
         "geometry": { "type": "Point", "coordinates": [ 2.327716075935076, 48.87413633147235 ] }
-    },
+    }
 
 
 ]
