@@ -311,7 +311,223 @@
             "Location": "2 Boulevard Gambetta, 30700, Uzes"
         },
         "geometry": { "type": "Point", "coordinates": [ 4.4184048063822665, 44.013261037504314 ] }
-    }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 27,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "LE STRASBOURG",
+            "Location": "24 Rue du Colonel Teyssier, 57230, Bitche"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.427098538388879, 49.05280698612391 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 28,
+        "properties": { 
+            "TYPE": "Fromagerie",
+            "name": "LES FROMAGES DE BRUNO",
+            "Location": "2 Rue de L'HOTEL de Ville, 19100, Brive La Gaillarde"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.5323672506324475, 45.15830546034163 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 29,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "MAG K2 EVENT",
+            "Location": "L'enclos, 25270, Septfontaines"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 6.18630826483976, 46.96131037291764 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 30,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "MARGUIN SARL",
+            "Location": "11 Avenue de Grande Bretagne, 69006, Lyon"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.842891103852446, 45.77492162389521 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 31,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "PULPI FRUIT",
+            "Location": "1 Ter Rue des Cerisiers, 17200, Royan"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.0247608461085043, 45.649097418813135 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 32,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "RESTAURANT ANGE GABRIEL",
+            "Location": "11 Rue des Fuseliers, 51100, Reims"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.032840807031743, 49.25252070187384 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 33,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "RESTAURANT LA CARTE",
+            "Location": "36 Place de l'arbre Bonpain, 59910, Bondues"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.091769723392851, 50.70361169207435 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 34,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "SARL LABATUD",
+            "Location": "12 Rue du 11 Novembre, 17138, Puilboreau"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.12003020509105, 46.17309382487677 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 35,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "SARL LES TUILERIES",
+            "Location": "1601 Rue Henri Fievet, 59310, Beuvry La Foret"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.2533504298138944, 50.45628346990958 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 36,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "SARL LPBV SPAR",
+            "Location": "1 Avenue Charles de Gaulle 05200 Embrun"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 6.497980204285518, 44.56668613698995 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 37,
+        "properties": { 
+            "TYPE": "Botique",
+            "name": "SARL O SAVEURS DU PHARE",
+            "Location": "1 Route du Chassiron, 17650, Saint Denis D'Oléron"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.401067509221639, 46.04261872209314 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 38,
+        "properties": { 
+            "TYPE": "CHR",
+            "name": "SARL XAG",
+            "Location": "16 Rue Carnot, 86000, Poitiers"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 0.3390446483041696, 46.579571803230984 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 39,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "SAS TERROIRS ET ASSOCIES",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 40,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "POISSONNERIES DEVELAY",
+            "Location": "71 Boulevard Sadi Carnot, 06110 Le Cannet"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.016446508755194, 43.5726591144708 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": ,
+        "properties": { 
+            "TYPE": "41",
+            "name": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": ,
+        "properties": { 
+            "TYPE": "",
+            "name": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": ,
+        "properties": { 
+            "TYPE": "",
+            "name": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": ,
+        "properties": { 
+            "TYPE": "",
+            "name": "",
+            "Location": ""
+        },
+        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+    },
 
 
 ]
