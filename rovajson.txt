@@ -6,7 +6,7 @@
         "type": "Feature",
         "id": 1,
         "properties": { 
-            "TYPE": "RESTAURANT",
+            "TYPE": "Restaurant",
             "name": "Marais Restaurant",
             "Location": "Route des hydrocarbures, Tananarive, Madagascar"
         },
@@ -18,7 +18,7 @@
         "type": "Feature",
         "id": 2,
         "properties": { 
-            "TYPE": "ÉPICERIE FINE",
+            "TYPE": "Épicerie fine",
             "name": "Épicerie Gourmet",
             "Location": "Zone Zital Ankorondrano, Tananarive, Madagascar"
         },
@@ -30,7 +30,7 @@
         "type": "Feature",
         "id": 3,
         "properties": { 
-            "TYPE": "ÉPICERIE FINE",
+            "TYPE": "Épicerie fine",
             "name": "Épicerie Gourmet 2",
             "Location": "Amabatobe, Tananarive, Madagascar"
         },
@@ -42,7 +42,7 @@
         "type": "Feature",
         "id": 4,
         "properties": { 
-            "TYPE": "HOTEL",
+            "TYPE": "Hotel",
             "name": "Tsara Komba Lodge",
             "Location": "Nosy Komba, Nosy Be, Madagascar"
         },
@@ -66,7 +66,7 @@
         "type": "Feature",
         "id": 6,
         "properties": { 
-            "TYPE": "CAVE",
+            "TYPE": "Cave",
             "name": "REPAIRE DE BACCHUS",
             "Location": "40 Rue de Bretagne, 75003 Paris"
         },
@@ -78,7 +78,7 @@
         "type": "Feature",
         "id": 7,
         "properties": { 
-            "TYPE": "CAVE",
+            "TYPE": "Cave",
             "name": "REPAIRE DE BACCHUS",
             "Location": "122 Rue Saint-Dominique, 75007 Paris"
         },
@@ -90,7 +90,7 @@
         "type": "Feature",
         "id": 8,
         "properties": { 
-            "TYPE": "CAVE",
+            "TYPE": "Cave",
             "name": "REPAIRE DE BACCHUS",
             "Location": "11 Rue le Marois, 75016 Paris"
         },
@@ -102,7 +102,7 @@
         "type": "Feature",
         "id": 9,
         "properties": { 
-            "TYPE": "CAVE",
+            "TYPE": "Cave",
             "name": "REPAIRE DE BACCHUS - PRINTEMPS DU GOUT",
             "Location": "64 Boulevard Haussmann, 75009 Paris"
         },
@@ -458,16 +458,15 @@
     },
 
 
-    {
-        "type": "Feature",
-        "id": 39,
-        "properties": { 
-            "TYPE": "Cave",
-            "name": "SAS TERROIRS ET ASSOCIES",
-            "Location": ""
-        },
-        "geometry": { "type": "Point", "coordinates": [ ,  ] }
-    },
+
+
+
+
+
+
+
+
+
 
 
     {
