@@ -438,7 +438,7 @@
         "type": "Feature",
         "id": 37,
         "properties": { 
-            "TYPE": "Botique",
+            "TYPE": "Boutique",
             "name": "SARL O SAVEURS DU PHARE",
             "Location": "1 Route du Chassiron, 17650, Saint Denis D'Oléron"
         },
@@ -484,51 +484,146 @@
 
     {
         "type": "Feature",
-        "id": ,
+        "id": 41,
         "properties": { 
-            "TYPE": "41",
-            "name": "",
-            "Location": ""
+            "TYPE": "Cave",
+            "name": "EPIVIN",
+            "Location": "10 Rue de la Taillanderie, 68720, Tagolsheim"
         },
-        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+        "geometry": { "type": "Point", "coordinates": [ 7.266438331657825, 47.657933757337155 ] }
     },
 
 
     {
         "type": "Feature",
-        "id": ,
+        "id": 42,
         "properties": { 
-            "TYPE": "",
-            "name": "",
-            "Location": ""
+            "TYPE": "Cave",
+            "name": "LE PARVIS REGALIA",
+            "Location": "2 Rue Rockfeller, 51100, Reims"
         },
-        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+        "geometry": { "type": "Point", "coordinates": [ 4.031998544973547, 49.25320697236505 ] }
     },
 
 
     {
         "type": "Feature",
-        "id": ,
+        "id": 43,
         "properties": { 
-            "TYPE": "",
-            "name": "",
-            "Location": ""
+            "TYPE": "Cave",
+            "name": "EPICUR'VINS JMD & CO",
+            "Location": "20 Rue Michael Faraday, 72100, Le Mans"
         },
-        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+        "geometry": { "type": "Point", "coordinates": [ 0.18449561747842777, 47.960955245416976 ] }
     },
 
 
     {
         "type": "Feature",
-        "id": ,
+        "id": 44,
         "properties": { 
-            "TYPE": "",
-            "name": "",
-            "Location": ""
+            "TYPE": "Poissonnerie",
+            "name": "SARL LES 2 PORTES",
+            "Location": "1 Rue du Printemps, 17880 Les Portes en Ré"
         },
-        "geometry": { "type": "Point", "coordinates": [ ,  ] }
+        "geometry": { "type": "Point", "coordinates": [ -1.4993549474098993, 46.2491753922649 ] }
     },
 
+
+    {
+        "type": "Feature",
+        "id": 45,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "LES PLAISIRS DE LA TABLE",
+            "Location": "1 Rue Racine, 3000, Nimes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.354917834353079, 43.83720213572755 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 46,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "LUXE & VOLUPTE",
+            "Location": "le Grand Pavois III, 116 Rue du Port, 34280 La Grande-Motte, France"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.084124553158992, 43.55928936978874 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 47,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "Giovanni's Deliworld",
+            "Location": "103 Main Rd, Green Point, Cape Town, South Africa"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 18.409635029193726, -33.90796007463129 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 48,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "The French Market",
+            "Location": "Shop 5b (Upper Level), Gardens Shopping Centre, Upper Buitenkant St, Oranjezicht, Cape Town, 8001, South Africa"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 18.417569204256328, -33.93423111625729 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 49,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "Wild Peacock",
+            "Location": "16 Stoffel Smit Rd, Plankenbrug, Stellenbosch, 7600, SA"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 18.85244569108745, -33.929637236404076 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 50,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "La Cotte In",
+            "Location": "Louis Botha St, Franschhoek, 7690, Afrique du Sud"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 19.11752975788323, -33.90746381535726 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 51,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "La Marina Foods",
+            "Location": "7 platinum Dr, Longmeadow, North Business Park, Lethabong, 2090, SA"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 28.14342419589958, -26.109450186155325 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 52,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "HOP!",
+            "Location": "Avenue des Celtes 22, 1040 Etterbeek, Belgique"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.398079800753704, 50.83851797020707 ] }
+    }
 
 ]
 }
